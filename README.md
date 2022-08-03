@@ -1,5 +1,5 @@
 # portifolio-roberta
-my first project
-With the Tech Academy course, a project by the company StartSe, I had my first contact with this world of codes.
-This website is the first complete project that I did thanks to the course classes, 
-which aimed to get people interested in the programming area, but they didn't know where to start.
+Meu primeiro projeto
+Com o curso Tech Academy, projeto da empresa StartSe, tive meu primeiro contato com esse mundo dos códigos.
+Este site é a primeiro projeto completo que fiz graças as aulas do curso, que teve como objetivo adentrar 
+pessoas interessadas na área de programação e tecnologia, mas não sabiam muito bem por onde começar a programar.
